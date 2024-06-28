@@ -1,7 +1,9 @@
 # Hackaton
 
+Humanos is a blockchain-enabled consent engine that allows individuals to securely share their health data between public/private entities, ensuring full control, transparency, and GDPR-compliance.
 
-The contract enables users to grant consent to other users or institutions, allowing them temporary visual access to their data. This consent specifies the type of data being shared and the recipient (hash), and the exact start and end times of the access (ConsentTimestamps).
+
+Our contract enables users to grant consent to other users or institutions, allowing them temporary visual access to their data. This consent specifies the type of data being shared and the recipient (hash), and the exact start and end times of the access (ConsentTimestamps).
 
 Users also have the ability to extend or revoke active consents as needed.
 
