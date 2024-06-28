@@ -17,7 +17,7 @@ contract ConsentContract {
 
     /**
      * Address --> Hash --> ConsentTimestamps[]
-     * Hash is a unique identifier for the consent, that stores what is being shared, who asked and with whom is being shared
+     * Hash is a unique identifier for the consent, that stores what type of data is being shared and with whom is being shared
      * ConsentTimestamps is a struct that contains the start and end time of the consent
      * Hash is unique, to identify and to block repeated consents.
      *      Instead the user can only extend the consent if still active
