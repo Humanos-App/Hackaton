@@ -18,6 +18,7 @@ This system provides a flexible and straightforward method for creating decentra
 
 - Gonçalo Almeida
 - Pedro Andrade
+- Rafael Galo
 - Rodrigo Sarroeira
 - Rui Lagos
 
