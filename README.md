@@ -8,3 +8,12 @@ Our contract enables users to grant consent to other users or institutions, allo
 Users also have the ability to extend or revoke active consents as needed.
 
 This system provides a flexible and straightforward method for creating decentralized consent, empowering users with greater control over their data.
+
+
+
+Gonçalo Almeida
+Pedro Andrade
+Rodrigo Sarroeira
+Rui Lagos 
+
+# For legal and safety reasons because of the sensitivity of health data, the code can not be public. 
